@@ -11,7 +11,8 @@
 - **Frontend:** JavaScript, HTML5, CSS3, Bootstrap  
 - **Tools:** Git, GitHub, Postman, VS Code  
 
-🧩 Recent Project: **Peddle** – A modern bike-sharing web platform.
+🧩 Recent Project: **Peddle** – A modern bike-sharing web platform.  
+🌐 [View Peddle Live](https://www.stackedbyife.com/peddle/)
 
 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/ifeoluwa-koleoso-1602051b3) | [Email](mailto:ifeoluwakole@icloud.com)
 
