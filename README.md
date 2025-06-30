@@ -14,8 +14,10 @@
 🌟 Highlight: **Peddle** – A modern bike-sharing web platform.  
 [![View Live](https://img.shields.io/badge/View-Live-green?style=for-the-badge&logo=vercel)](https://www.stackedbyife.com/peddle/)
 
-📫 Reach me: [LinkedIn](https://www.linkedin.com/in/ifeoluwa-koleoso-1602051b3) | [Email](mailto:ifeoluwakole@icloud.com)
+### 📫 Reach Me
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ifeoluwa-koleoso-1602051b3)
+[![Email](https://img.shields.io/badge/Email-icloud.com-red?logo=gmail&logoColor=white)](mailto:ifeoluwakole@icloud.com)
 ---
 
 > _"Turning ideas into clean code and real-world solutions."_
